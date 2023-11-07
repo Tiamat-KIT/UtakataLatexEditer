@@ -1,0 +1,2 @@
+# UtakataLatexEditer
+LateXをもっと簡単にかけるエディタが作りたい
